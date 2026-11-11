@@ -1,0 +1,36 @@
+python3 -V
+```[cite: 2]
+
+Kalau sudah terinstal harusnya akan muncul tulisan Python dengan versi yang terinstal[cite: 2]. Jika belum terinstal, silahkan ikuti langkah-langkah instalasi nya di bawah ini:[cite: 2]
+
+Perbarui **package list** dari Ubuntu[cite: 2]
+
+```bash
+sudo apt update && sudo apt install software-properties-common
+
+
+Tambakan **PPA deadsnake** pada sistem[cite: 2]
+
+```bash
+sudo add-apt-repository ppa:deadsnakes/ppa
+
+
+Dan terakhir instal Python versi 3 (di sini kita menginstal versi 3.9.0)[cite: 2]
+
+```bash
+sudo apt install python3.9
+
+
+Untuk mengecek apakah Python sukses terinstal, jalankan perintah berikut[cite: 2]
+
+```bash
+python3.9 --version
+
+echo "alias python='/usr/local/bin/python3.9'" >> ~/.bashrc
+
+
+Restart dan buka kembali terminal. Sekarang untuk mengecek versi Python yang terinstal cukup dengan perintah yang lebih singkat:[cite: 3]
+
+```bash
+python --version
+
