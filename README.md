@@ -14,7 +14,7 @@ Ini adalah kumpulan latihan Python yang saya kerjakan selama belajar dari materi
 | 6 | Tipe data | `tipe-data.py` | [lihat](screenshot/bagian%20tipe%20data%20.png) |
 | 7 | Operator | `operator.py` | [lihat](screenshot/bagian%20operator.png) |
 | 8 | Control flow | `control-flow.py` | [lihat](screenshot/bagian%20control.flow.png) |
-| 9 | Perulangan | `perulangan.py` | – |
+| 9 | Perulangan | `perulangan.py` | [lihat](screenshot/bagian%20perulangan.png)|
 | 10 | List | `list.py` | [lihat](screenshot/bagian%20list.png) |
 | 11 | Dictionaries | `dictionaries.py` | [lihat](screenshot/bagian%20dictionaries.png) |
 | 12 | Function | `function.py` | [lihat](screenshot/bagian%20function.png) |
